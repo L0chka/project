@@ -108,7 +108,7 @@ nav{
 }
 
 .hero{
-    background-image: url(../img/Group\ 3.jpg);
+    background-image: url(../img/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -118,7 +118,7 @@ nav{
 }
 .hero-title{
     font-family: var(--NS);
-    color: var(--light);
+    color: var(--dark);
     font-size: 80px;
     font-weight: 700;
     padding-top: 8px;
@@ -126,7 +126,7 @@ nav{
 .hero-discription{
     font-size: 15px;
     font-family: var(--OS);
-    color: rgb(var(--WL));
+    color: var(--accent-dark);
     max-width: 320px;
     margin: 0 auto;
     line-height: 160%;
